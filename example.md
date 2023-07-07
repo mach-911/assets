@@ -1,3 +1,4 @@
+```mermaid
 erDiagram 
 BUILDING {
     id int PK "Esta es la llave primaria"
@@ -12,3 +13,4 @@ APARTMENT {
 }
 
 BUILDING ||--|{ APARTMENT :has
+```
